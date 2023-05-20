@@ -1,0 +1,10 @@
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.csproj.AssemblyReference.cache
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.Properties.Resources.resources
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.csproj.GenerateResource.cache
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.csproj.CoreCompileInputs.cache
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\bin\Debug\Calculator_winForms.exe.config
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\bin\Debug\Calculator_winForms.exe
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\bin\Debug\Calculator_winForms.pdb
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator.CalculatorForm.resources
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.exe
+C:\Users\hugo.sundbom\source\repos\Calculator_winForms\Calculator_winForms\obj\Debug\Calculator_winForms.pdb
